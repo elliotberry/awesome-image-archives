@@ -12,3 +12,4 @@
 * [Project Apollo Archive](https://www.flickr.com/people/projectapolloarchive/)
 * [Flickr Commons](https://www.flickr.com/commons)
 * [Archive.org Images](https://archive.org/details/image)
+* [New York Public Library](https://digitalcollections.nypl.org/)
